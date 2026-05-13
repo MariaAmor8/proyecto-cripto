@@ -1,0 +1,27 @@
+# ProyectoCritpo_G3 - dependencias del notebook
+# Recomendado: Python 3.10 o 3.11
+
+# Deep learning con TensorFlow/Keras
+# Para GPU NVIDIA en Linux/WSL2:
+tensorflow[and-cuda]
+
+# Si vas a correr SOLO en CPU o en Windows nativo sin WSL2,
+# reemplaza la línea anterior por:
+# tensorflow
+
+# Procesamiento numérico e imágenes
+numpy
+opencv-python
+Pillow
+
+# Visualización
+matplotlib
+seaborn
+
+# Métricas de imagen y evaluación
+scikit-image
+scikit-learn
+
+# Ejecución del notebook dentro del ambiente virtual
+jupyterlab
+ipykernel
