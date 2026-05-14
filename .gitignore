@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Extra
+bossbase_completo/
+*.zip
+
 # C extensions
 *.so
 
