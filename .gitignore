@@ -5,6 +5,8 @@ __pycache__/
 
 # Extra
 bossbase_completo/
+dataset/
+splits/
 *.zip
 
 # C extensions
