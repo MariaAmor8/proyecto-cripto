@@ -1,0 +1,19 @@
+{
+    "dataset_dir": "C:\\Users\\m.amorocho\\proyecto-cripto\\dataset",
+    "bossbase_url": "http://dde.binghamton.edu/download/ImageDB/BOSSbase_1.01.zip",
+    "cantidad_a_procesar": 1000,
+    "validation_split": 0.25,
+    "test_split": 0.15,
+    "train_base_images": 600,
+    "val_base_images": 250,
+    "test_base_images": 150,
+    "seed": 42,
+    "cover_format": "pgm",
+    "output_structure": {
+        "cover": "dataset\\cover",
+        "stego_7": "dataset\\stego_7",
+        "stego_15": "dataset\\stego_15",
+        "splits": "splits"
+    },
+    "anti_leakage_rule": "El split se realiza sobre el identificador de imagen base antes de usar los pares cover/stego."
+}
