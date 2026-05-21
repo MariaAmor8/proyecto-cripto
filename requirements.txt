@@ -2,7 +2,7 @@
 # Recomendado: Python 3.10 o 3.11
 
 # Deep learning con pytorch
---index-url https://download.pytorch.org/whl/cu118
+--index-url https://download.pytorch.org/whl/cu127
 torch
 torchvision
 torchaudio
