@@ -10,6 +10,7 @@ splits/
 *.zip
 *.pt
 *.json
+*.csv
 
 # C extensions
 *.so
