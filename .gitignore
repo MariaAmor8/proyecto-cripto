@@ -7,6 +7,7 @@ __pycache__/
 bossbase_completo/
 dataset/
 splits/
+figures/
 *.zip
 *.pt
 *.json
