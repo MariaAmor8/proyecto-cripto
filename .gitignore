@@ -8,6 +8,8 @@ bossbase_completo/
 dataset/
 splits/
 *.zip
+*.pt
+*.json
 
 # C extensions
 *.so
