@@ -74,7 +74,7 @@ proyecto-cripto/
     └── roc_comparison.pdf
 ```
 
-Descripción rápida:
+Descripción breve de cada uno:
 
 - `bossbase.zip`: archivo descargado de BOSSBase 1.01.
 - `bossbase_completo/`: extracción local del dataset original.
@@ -111,7 +111,7 @@ con CUDA porque el entrenamiento de la red residual puede ser costoso.
 
 ## Uso
 
-Ejecuta los notebooks en este orden:
+Ejecute los notebooks en este orden:
 
 1. `preparar_dataset.ipynb`
 2. `hamming_embedding_resnet_steganalysis.ipynb`
